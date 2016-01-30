@@ -7,7 +7,7 @@ activities_to_do = ['a','b','c']
 
 
 # find a way to pick something
-going_to_do = activities_to_do[2]
+going_to_do = random.choice(activities_to_do)
 
 
 
