@@ -11,3 +11,6 @@
 * Commit the file
 * Code Combat
 
+### Wiki
+* [ Walking through the activity_picker ](https://github.com/bellcodo/potential-octo-chainsaw/wiki)
+
