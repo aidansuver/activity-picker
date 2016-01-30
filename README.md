@@ -13,4 +13,5 @@
 
 ### Wiki
 * Walking through the [ `activity_picker`. ](https://github.com/bellcodo/potential-octo-chainsaw/wiki)
+* The final program [ `activity_pickerpy-7`](https://github.com/bellcodo/potential-octo-chainsaw/wiki#activity_pickerpy-7)
 
