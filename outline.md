@@ -1,4 +1,4 @@
-# potential-octo-chainsaw
+# Activity Picker
 
 ### Plan
 * Begin with typing.io/lessions python/javascript.
